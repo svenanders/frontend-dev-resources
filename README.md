@@ -124,9 +124,9 @@ List of useful resources for frontend developers
 - [Exploring ES6 by Dr. Axel Rauschmayer](http://exploringjs.com/)
 - [Setting up ES6 by Dr. Axel Rauschmayer](https://leanpub.com/setting-up-es6/read)
 - [Speaking JavaScript by Dr. Axel Rauschmayer](http://speakingjs.com/)
-- [Mostly Adequate Guide to Funcitonal Programming by Brian Lonsdorf](https://drboolean.gitbooks.io/mostly-adequate-guide/)
+- [Mostly Adequate Guide to Functional Programming by Brian Lonsdorf](https://drboolean.gitbooks.io/mostly-adequate-guide/)
 - [JavaScript Allongé, the "Six" Edition by Reginald Braithwaite](https://leanpub.com/javascriptallongesix/read)
 
 ## Contribute
 If you know some great frontend resources that are not in this list, you are welcome to send Pull Requests! 
-You cad do it directly through Github by clicking the "edit" button on this file.
+You can do it directly through Github by clicking the "edit" button on this file.
